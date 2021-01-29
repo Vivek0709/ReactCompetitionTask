@@ -1,0 +1,40 @@
+C:\Talent\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.deps.json
+C:\Talent\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.runtimeconfig.json
+C:\Talent\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.runtimeconfig.dev.json
+C:\Talent\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.dll
+C:\Talent\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.pdb
+C:\Talent\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Common.dll
+C:\Talent\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+C:\Talent\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.csprojResolveAssemblyReference.cache
+C:\Talent\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.csproj.CoreCompileInputs.cache
+C:\Talent\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.AssemblyInfoInputs.cache
+C:\Talent\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.AssemblyInfo.cs
+C:\Talent\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.dll
+C:\Talent\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.pdb
+C:\Talent-StandardTasks\Talent\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.deps.json
+C:\Talent-StandardTasks\Talent\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.runtimeconfig.json
+C:\Talent-StandardTasks\Talent\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.runtimeconfig.dev.json
+C:\Talent-StandardTasks\Talent\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.dll
+C:\Talent-StandardTasks\Talent\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.pdb
+C:\Talent-StandardTasks\Talent\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Common.dll
+C:\Talent-StandardTasks\Talent\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+C:\Talent-StandardTasks\Talent\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.csprojResolveAssemblyReference.cache
+C:\Talent-StandardTasks\Talent\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.csproj.CoreCompileInputs.cache
+C:\Talent-StandardTasks\Talent\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.AssemblyInfoInputs.cache
+C:\Talent-StandardTasks\Talent\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.AssemblyInfo.cs
+C:\Talent-StandardTasks\Talent\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.dll
+C:\Talent-StandardTasks\Talent\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.pdb
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.deps.json
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.runtimeconfig.json
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.runtimeconfig.dev.json
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.dll
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.pdb
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Common.dll
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.csprojAssemblyReference.cache
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.csproj.CoreCompileInputs.cache
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.AssemblyInfoInputs.cache
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.AssemblyInfo.cs
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.csproj.CopyComplete
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.dll
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.pdb

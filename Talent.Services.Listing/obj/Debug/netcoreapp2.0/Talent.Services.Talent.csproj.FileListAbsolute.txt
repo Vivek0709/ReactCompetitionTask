@@ -1,0 +1,61 @@
+C:\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.deps.json
+C:\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.runtimeconfig.json
+C:\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.runtimeconfig.dev.json
+C:\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.dll
+C:\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.pdb
+C:\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Common.dll
+C:\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+C:\Talent\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.csproj.CoreCompileInputs.cache
+C:\Talent\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.AssemblyInfoInputs.cache
+C:\Talent\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.AssemblyInfo.cs
+C:\Talent\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.dll
+C:\Talent\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.pdb
+C:\Talent\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.csprojResolveAssemblyReference.cache
+C:\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Profile.dll
+C:\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Profile.pdb
+C:\Talent-StandardTasks\Talent\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.csprojResolveAssemblyReference.cache
+C:\Talent-StandardTasks\Talent\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.csproj.CoreCompileInputs.cache
+C:\Talent-StandardTasks\Talent\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.AssemblyInfoInputs.cache
+C:\Talent-StandardTasks\Talent\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.AssemblyInfo.cs
+C:\Talent-StandardTasks\Talent\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.dll
+C:\Talent-StandardTasks\Talent\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.pdb
+C:\Talent-StandardTasks\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.deps.json
+C:\Talent-StandardTasks\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.runtimeconfig.json
+C:\Talent-StandardTasks\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.runtimeconfig.dev.json
+C:\Talent-StandardTasks\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.dll
+C:\Talent-StandardTasks\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.pdb
+C:\Talent-StandardTasks\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Common.dll
+C:\Talent-StandardTasks\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Profile.dll
+C:\Talent-StandardTasks\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+C:\Talent-StandardTasks\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Profile.pdb
+C:\Talent-Competition\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.deps.json
+C:\Talent-Competition\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.runtimeconfig.json
+C:\Talent-Competition\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.runtimeconfig.dev.json
+C:\Talent-Competition\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.dll
+C:\Talent-Competition\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.pdb
+C:\Talent-Competition\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Common.dll
+C:\Talent-Competition\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Profile.dll
+C:\Talent-Competition\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+C:\Talent-Competition\Talent\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Profile.pdb
+C:\Talent-Competition\Talent\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.csprojResolveAssemblyReference.cache
+C:\Talent-Competition\Talent\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.csproj.CoreCompileInputs.cache
+C:\Talent-Competition\Talent\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.AssemblyInfoInputs.cache
+C:\Talent-Competition\Talent\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.AssemblyInfo.cs
+C:\Talent-Competition\Talent\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.dll
+C:\Talent-Competition\Talent\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.pdb
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.deps.json
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.runtimeconfig.json
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.runtimeconfig.dev.json
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.dll
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Talent.pdb
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Common.dll
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Profile.dll
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Services.Listing\bin\Debug\netcoreapp2.0\Talent.Services.Profile.pdb
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.csprojAssemblyReference.cache
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.csproj.CoreCompileInputs.cache
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.AssemblyInfoInputs.cache
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.AssemblyInfo.cs
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.csproj.CopyComplete
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.dll
+F:\Industry Connect\New folder\Talent - Competition task\Talent.Services.Listing\obj\Debug\netcoreapp2.0\Talent.Services.Talent.pdb
